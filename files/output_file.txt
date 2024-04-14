@@ -1,0 +1,489 @@
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+_windowserver      152  10.5  1.0 414148000  84976   ??  Ss    4:15PM  47:42.08 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+dmitrygorbunow    1159   6.9  1.8 412848704 149360   ??  S     4:17PM   1:29.74 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+_coreaudiod        192   5.0  0.2 410421056  20256   ??  Ss    4:15PM  16:02.24 /usr/sbin/coreaudiod
+dmitrygorbunow    8665   3.8  1.1 420018400  91744   ??  S     9:20PM   6:38.19 /Applications/PyCharm.app/Contents/MacOS/pycharm
+dmitrygorbunow    9195   3.2  0.8 1600447408  63600   ??  S    11:11PM   0:14.27 /Applications/Discord.app/Contents/Frameworks/Discord Helper (Renderer).app/Contents/MacOS/Discord Helper (Renderer) --type=renderer --user-data-dir=/Users/dmitrygorbunow/Library/Application Support/discord --secure-schemes=disclip --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip --app-path=/Applications/Discord.app/Contents/Resources/app.asar --no-sandbox --no-zygote --autoplay-policy=no-user-gesture-required --lang=en-US --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=6 --time-ticks-at-unix-epoch=-1712062129076010 --launch-time-ticks=19354129292 --shared-files --field-trial-handle=1718379636,r,5524885637517621388,12175906853310735846,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --enable-node-leakage-in-renderers
+dmitrygorbunow    9170   2.6  0.2 411489536  12720   ??  S    11:10PM   0:02.78 /Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python -m flask run
+dmitrygorbunow    2100   2.6  0.9 412635120  78528   ??  S     4:32PM   2:55.78 /Applications/Spotify.app/Contents/MacOS/Spotify
+root              2793   2.1  0.2 410431600  18768   ??  Ss    4:56PM   2:00.05 /usr/sbin/bluetoothd
+dmitrygorbunow    9293   0.9  0.8 411891616  69552   ??  S    11:16PM   0:00.35 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+root               135   0.9  0.1 410369664  10704   ??  Ss    4:15PM   0:20.31 /usr/libexec/dasd
+dmitrygorbunow    9248   0.6  1.0 412298064  80112   ??  S    11:13PM   0:05.28 /private/var/folders/4z/nxrvxy9d65v8j9d_vxgxd3p00000gn/T/AppTranslocation/BB498BBB-B40B-41CC-A2FF-6E40DE169FB9/d/DeepL.app/Contents/MacOS/DeepL
+root               162   0.4  0.1 410374992   9792   ??  Ss    4:15PM   0:09.02 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+dmitrygorbunow    8609   0.3  0.3 414853520  23072   ??  Ss    9:16PM   0:01.40 /System/Library/Frameworks/QuickLook.framework/Versions/A/XPCServices/QuickLookSatellite.xpc/Contents/MacOS/QuickLookSatellite
+_coreaudiod       5687   0.2  0.1 410235680   4592   ??  Ss    7:03PM   0:01.13 Core Audio Driver (MSTeamsAudioDevice.driver)
+_coreaudiod        308   0.2  0.0 410201168   2464   ??  Ss    4:15PM   0:01.70 Core Audio Driver (ZoomAudioDevice.driver)
+root              1036   0.2  0.0 410365808   4032   ??  Ss    4:16PM   0:35.51 /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCServices/com.apple.AmbientDisplayAgent.xpc/Contents/MacOS/com.apple.AmbientDisplayAgent
+dmitrygorbunow    8508   0.1  0.3 410890416  21408   ??  S     9:08PM   0:02.19 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+dmitrygorbunow    9226   0.1  2.3 500244080 194592   ??  Ss   11:11PM   0:08.92 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+dmitrygorbunow    8828   0.1  0.7 413440512  61440   ??  Ss    9:21PM   0:18.73 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+dmitrygorbunow    2105   0.1  0.2 412215248  12736   ??  S     4:33PM   0:08.93 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper (GPU).app/Contents/MacOS/Spotify Helper (GPU) --type=gpu-process --start-stack-profiler --enable-chrome-runtime --user-data-dir=/Users/dmitrygorbunow/Library/Caches/com.spotify.client --user-agent-product=Chrome/122.0.6261.69 Spotify/1.2.33.1042 --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAcAAAAAAABoBwAAAAAAAHgCAABOAAAAcAIAAAAAAAB4AgAAAAAAAIACAAAAAAAAiAIAAAAAAACQAgAAAAAAAJgCAAAAAAAAoAIAAAAAAACoAgAAAAAAALACAAAAAAAAuAIAAAAAAADAAgAAAAAAAMgCAAAAAAAA0AIAAAAAAADYAgAAAAAAAOACAAAAAAAA6AIAAAAAAADwAgAAAAAAAPgCAAAAAAAAAAMAAAAAAAAIAwAAAAAAABADAAAAAAAAGAMAAAAAAAAgAwAAAAAAACgDAAAAAAAAMAMAAAAAAAA4AwAAAAAAAEADAAAAAAAASAMAAAAAAABQAwAAAAAAAFgDAAAAAAAAYAMAAAAAAABoAwAAAAAAAHADAAAAAAAAeAMAAAAAAACAAwAAAAAAAIgDAAAAAAAAkAMAAAAAAACYAwAAAAAAAKADAAAAAAAAqAMAAAAAAACwAwAAAAAAALgDAAAAAAAAwAMAAAAAAADIAwAAAAAAANADAAAAAAAA2AMAAAAAAADgAwAAAAAAAOgDAAAAAAAA8AMAAAAAAAD4AwAAAAAAAAAEAAAAAAAACAQAAAAAAAAQBAAAAAAAABgEAAAAAAAAIAQAAAAAAAAoBAAAAAAAADAEAAAAAAAAOAQAAAAAAABABAAAAAAAAEgEAAAAAAAAUAQAAAAAAABYBAAAAAAAAGAEAAAAAAAAaAQAAAAAAABwBAAAAAAAAHgEAAAAAAAAgAQAAAAAAACIBAAAAAAAAJAEAAAAAAAAmAQAAAAAAACgBAAAAAAAAKgEAAAAAAAAsAQAAAAAAAC4BAAAAAAAAMAEAAAAAAAAyAQAAAAAAADQBAAAAAAAANgEAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAACAAAAEAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAAAAAAAHAAAAEAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAAAAAAALAAAAEAAAAAAAAAAAAAAADAAAABAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAAAAAAAPAAAAEAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAEAAAABAAAAEAAAAAAAAAABAAAAAgAAABAAAAAAAAAAAQAAAAMAAAAQAAAAAAAAAAEAAAAGAAAAEAAAAAAAAAABAAAABwAAABAAAAAAAAAAAQAAAAgAAAAQAAAAAAAAAAEAAAAJAAAAEAAAAAAAAAABAAAACwAAABAAAAAAAAAAAQAAAAwAAAAQAAAAAAAAAAEAAAAOAAAAEAAAAAAAAAABAAAADwAAABAAAAAAAAAAAQAAABAAAAAQAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAEAAAAAQAAABAAAAAAAAAABAAAAAIAAAAQAAAAAAAAAAQAAAADAAAAEAAAAAAAAAAEAAAABgAAABAAAAAAAAAABAAAAAcAAAAQAAAAAAAAAAQAAAAIAAAAEAAAAAAAAAAEAAAACQAAABAAAAAAAAAABAAAAAsAAAAQAAAAAAAAAAQAAAAMAAAAEAAAAAAAAAAEAAAADgAAABAAAAAAAAAABAAAAA8AAAAQAAAAAAAAAAQAAAAQAAAAEAAAAAAAAAAHAAAAAAAAABAAAAAAAAAABwAAAAEAAAAQAAAAAAAAAAcAAAACAAAAEAAAAAAAAAAHAAAAAwAAABAAAAAAAAAABwAAAAYAAAAQAAAAAAAAAAcAAAAHAAAAEAAAAAAAAAAHAAAACAAAABAAAAAAAAAABwAAAAkAAAAQAAAAAAAAAAcAAAALAAAAEAAAAAAAAAAHAAAADAAAABAAAAAAAAAABwAAAA4AAAAQAAAAAAAAAAcAAAAPAAAAEAAAAAAAAAAHAAAAEAAAABAAAAAAAAAACAAAAAAAAAAQAAAAAAAAAAgAAAABAAAAEAAAAAAAAAAIAAAAAgAAABAAAAAAAAAACAAAAAMAAAAQAAAAAAAAAAgAAAAGAAAAEAAAAAAAAAAIAAAABwAAABAAAAAAAAAACAAAAAgAAAAQAAAAAAAAAAgAAAAJAAAAEAAAAAAAAAAIAAAACwAAABAAAAAAAAAACAAAAAwAAAAQAAAAAAAAAAgAAAAOAAAAEAAAAAAAAAAIAAAADwAAABAAAAAAAAAACAAAABAAAAAQAAAAAAAAAAoAAAAAAAAAEAAAAAAAAAAKAAAAAQAAABAAAAAAAAAACgAAAAIAAAAQAAAAAAAAAAoAAAADAAAAEAAAAAAAAAAKAAAABgAAABAAAAAAAAAACgAAAAcAAAAQAAAAAAAAAAoAAAAIAAAAEAAAAAAAAAAKAAAACQAAABAAAAAAAAAACgAAAAsAAAAQAAAAAAAAAAoAAAAMAAAAEAAAAAAAAAAKAAAADgAAABAAAAAAAAAACgAAAA8AAAAQAAAAAAAAAAoAAAAQAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=1718379636,r,6675278335703761327,9802331894420047549,262144 --disable-features=BackForwardCache --variations-seed-version --seatbelt-client=25
+root               149   0.1  0.1 410364320   6480   ??  Ss    4:15PM   0:57.25 /usr/libexec/corebrightnessd --launchd
+dmitrygorbunow    1089   0.1  0.3 411708832  23104   ??  S     4:17PM   0:19.46 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+root               127   0.1  0.1 410369856  11504   ??  Ss    4:15PM   0:21.67 /System/Library/CoreServices/launchservicesd
+_locationd         132   0.1  0.2 410386096  12784   ??  Ss    4:15PM   0:32.81 /usr/libexec/locationd
+_nearbyd          1198   0.1  0.1 410373056   5520   ??  Ss    4:17PM   0:17.36 /usr/libexec/nearbyd
+dmitrygorbunow    9234   0.1  0.8 500624224  63792   ??  Ss   11:12PM   0:09.63 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+dmitrygorbunow    9059   0.1  0.6 411995152  53520   ??  S     9:35PM   0:13.08 /System/Applications/Utilities/Activity Monitor.app/Contents/MacOS/Activity Monitor
+dmitrygorbunow    9262   0.0  0.1 411200544   4240   ??  Ss   11:13PM   0:00.12 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+dmitrygorbunow    9263   0.0  0.1 411210784   4240   ??  Ss   11:13PM   0:00.08 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+dmitrygorbunow    9260   0.0  0.4 516040256  32288   ??  Ss   11:13PM   0:00.27 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+dmitrygorbunow    9259   0.0  0.3 411044192  24160   ??  Ss   11:13PM   0:00.20 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+dmitrygorbunow    9258   0.0  0.2 410335616  14272   ??  Ss   11:13PM   0:00.21 /System/Library/PrivateFrameworks/iCloudDriveService.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+dmitrygorbunow    9257   0.0  0.2 410802944  14272   ??  S    11:13PM   0:00.14 /var/folders/4z/nxrvxy9d65v8j9d_vxgxd3p00000gn/T/AppTranslocation/BB498BBB-B40B-41CC-A2FF-6E40DE169FB9/d/DeepL.app/Contents/Applications/DeepLHelper --parent-pid 9248 --blocked-applications com.apple.keychainaccess --message-port-identifier 1
+dmitrygorbunow    9256   0.0  0.2 411257696  15248   ??  S    11:13PM   0:00.08 /private/var/folders/4z/nxrvxy9d65v8j9d_vxgxd3p00000gn/T/AppTranslocation/BB498BBB-B40B-41CC-A2FF-6E40DE169FB9/d/DeepL.app/Contents/Applications/DeepLUninstall.app/Contents/MacOS/DeepLUninstall
+dmitrygorbunow    9254   0.0  0.0 410156160   2160   ??  Ss   11:13PM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+dmitrygorbunow    9255   0.0  0.0 410154112   2192   ??  Ss   11:13PM   0:00.00 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+dmitrygorbunow    9252   0.0  0.1 410326960   4848   ??  S    11:13PM   0:00.08 /usr/libexec/MTLAssetUpgraderD
+dmitrygorbunow    9253   0.0  0.1 410329360   8352   ??  S    11:13PM   0:00.28 /usr/libexec/linkd
+root              9251   0.0  0.1 410355040  10928   ??  Ss   11:13PM   0:00.08 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Resources/backgroundtaskmanagementd -daemon
+root              9250   0.0  0.0 410181776   2560   ??  Ss   11:13PM   0:00.02 /usr/libexec/smd
+dmitrygorbunow    9247   0.0  0.0 410163328   2160   ??  Ss   11:13PM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+dmitrygorbunow    9244   0.0  0.1 410294352   6208   ??  S    11:13PM   0:00.07 /usr/libexec/gamecontrolleragentd
+dmitrygorbunow    9243   0.0  0.1 410671392   6656   ??  Ss   11:13PM   0:00.05 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+_gamecontrollerd  9242   0.0  0.1 410331520   8128   ??  Ss   11:13PM   0:00.08 /usr/libexec/gamecontrollerd
+dmitrygorbunow    9241   0.0  0.2 515918128  20400   ??  Ss   11:13PM   0:00.05 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+dmitrygorbunow    9239   0.0  0.1 410346896  12208   ??  S    11:12PM   0:03.73 /usr/libexec/replayd
+root              9237   0.0  0.1 411479376   9616   ??  Ss   11:12PM   0:00.28 /System/Library/PrivateFrameworks/TVIdleServices.framework/idleassetsd
+root              9236   0.0  0.1 410327744   9552   ??  Ss   11:12PM   0:00.17 /usr/libexec/ospredictiond
+dmitrygorbunow    9235   0.0  0.1 410325712   7952   ??  S    11:12PM   0:00.11 /System/Library/PrivateFrameworks/BusinessChatService.framework/businessservicesd
+dmitrygorbunow    9232   0.0  1.4 517074576 113344   ??  Ss   11:12PM   0:09.77 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+dmitrygorbunow    9213   0.0  0.0 411067920   3520   ??  Ss   11:11PM   0:00.15 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+dmitrygorbunow    9211   0.0  0.1 410671392   5232   ??  Ss   11:11PM   0:00.05 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+dmitrygorbunow    9209   0.0  0.0 410286144   2736   ??  Ss   11:11PM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+dmitrygorbunow    9206   0.0  0.1 443971552  11200   ??  S    11:11PM   0:00.33 /Applications/Discord.app/Contents/Frameworks/Discord Helper.app/Contents/MacOS/Discord Helper --type=utility --utility-sub-type=audio.mojom.AudioService --lang=en-US --service-sandbox-type=audio --message-loop-type-ui --user-data-dir=/Users/dmitrygorbunow/Library/Application Support/discord --secure-schemes=disclip --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip --shared-files --field-trial-handle=1718379636,r,5524885637517621388,12175906853310735846,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --seatbelt-client=73
+dmitrygorbunow    9190   0.0  0.1 411352704   6608   ??  Ss   11:11PM   0:00.09 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTEncoderXPCService.xpc/Contents/MacOS/VTEncoderXPCService
+dmitrygorbunow    9186   0.0  0.2 444003424  14048   ??  S    11:11PM   0:00.34 /Applications/Discord.app/Contents/Frameworks/Discord Helper.app/Contents/MacOS/Discord Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en-US --service-sandbox-type=network --user-data-dir=/Users/dmitrygorbunow/Library/Application Support/discord --secure-schemes=disclip --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=disclip --shared-files --field-trial-handle=1718379636,r,5524885637517621388,12175906853310735846,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --seatbelt-client=44
+dmitrygorbunow    9184   0.0  0.3 444203296  29152   ??  S    11:11PM   0:01.26 /Applications/Discord.app/Contents/Frameworks/Discord Helper (GPU).app/Contents/MacOS/Discord Helper (GPU) --type=gpu-process --user-data-dir=/Users/dmitrygorbunow/Library/Application Support/discord --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAcAAAAAAABoBwAAAAAAAHgCAABOAAAAcAIAAAAAAAB4AgAAAAAAAIACAAAAAAAAiAIAAAAAAACQAgAAAAAAAJgCAAAAAAAAoAIAAAAAAACoAgAAAAAAALACAAAAAAAAuAIAAAAAAADAAgAAAAAAAMgCAAAAAAAA0AIAAAAAAADYAgAAAAAAAOACAAAAAAAA6AIAAAAAAADwAgAAAAAAAPgCAAAAAAAAAAMAAAAAAAAIAwAAAAAAABADAAAAAAAAGAMAAAAAAAAgAwAAAAAAACgDAAAAAAAAMAMAAAAAAAA4AwAAAAAAAEADAAAAAAAASAMAAAAAAABQAwAAAAAAAFgDAAAAAAAAYAMAAAAAAABoAwAAAAAAAHADAAAAAAAAeAMAAAAAAACAAwAAAAAAAIgDAAAAAAAAkAMAAAAAAACYAwAAAAAAAKADAAAAAAAAqAMAAAAAAACwAwAAAAAAALgDAAAAAAAAwAMAAAAAAADIAwAAAAAAANADAAAAAAAA2AMAAAAAAADgAwAAAAAAAOgDAAAAAAAA8AMAAAAAAAD4AwAAAAAAAAAEAAAAAAAACAQAAAAAAAAQBAAAAAAAABgEAAAAAAAAIAQAAAAAAAAoBAAAAAAAADAEAAAAAAAAOAQAAAAAAABABAAAAAAAAEgEAAAAAAAAUAQAAAAAAABYBAAAAAAAAGAEAAAAAAAAaAQAAAAAAABwBAAAAAAAAHgEAAAAAAAAgAQAAAAAAACIBAAAAAAAAJAEAAAAAAAAmAQAAAAAAACgBAAAAAAAAKgEAAAAAAAAsAQAAAAAAAC4BAAAAAAAAMAEAAAAAAAAyAQAAAAAAADQBAAAAAAAANgEAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAACAAAAEAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAAAAAAAHAAAAEAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAAAAAAALAAAAEAAAAAAAAAAAAAAADAAAABAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAAAAAAAPAAAAEAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAEAAAABAAAAEAAAAAAAAAABAAAAAgAAABAAAAAAAAAAAQAAAAMAAAAQAAAAAAAAAAEAAAAGAAAAEAAAAAAAAAABAAAABwAAABAAAAAAAAAAAQAAAAgAAAAQAAAAAAAAAAEAAAAJAAAAEAAAAAAAAAABAAAACwAAABAAAAAAAAAAAQAAAAwAAAAQAAAAAAAAAAEAAAAOAAAAEAAAAAAAAAABAAAADwAAABAAAAAAAAAAAQAAABAAAAAQAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAEAAAAAQAAABAAAAAAAAAABAAAAAIAAAAQAAAAAAAAAAQAAAADAAAAEAAAAAAAAAAEAAAABgAAABAAAAAAAAAABAAAAAcAAAAQAAAAAAAAAAQAAAAIAAAAEAAAAAAAAAAEAAAACQAAABAAAAAAAAAABAAAAAsAAAAQAAAAAAAAAAQAAAAMAAAAEAAAAAAAAAAEAAAADgAAABAAAAAAAAAABAAAAA8AAAAQAAAAAAAAAAQAAAAQAAAAEAAAAAAAAAAHAAAAAAAAABAAAAAAAAAABwAAAAEAAAAQAAAAAAAAAAcAAAACAAAAEAAAAAAAAAAHAAAAAwAAABAAAAAAAAAABwAAAAYAAAAQAAAAAAAAAAcAAAAHAAAAEAAAAAAAAAAHAAAACAAAABAAAAAAAAAABwAAAAkAAAAQAAAAAAAAAAcAAAALAAAAEAAAAAAAAAAHAAAADAAAABAAAAAAAAAABwAAAA4AAAAQAAAAAAAAAAcAAAAPAAAAEAAAAAAAAAAHAAAAEAAAABAAAAAAAAAACAAAAAAAAAAQAAAAAAAAAAgAAAABAAAAEAAAAAAAAAAIAAAAAgAAABAAAAAAAAAACAAAAAMAAAAQAAAAAAAAAAgAAAAGAAAAEAAAAAAAAAAIAAAABwAAABAAAAAAAAAACAAAAAgAAAAQAAAAAAAAAAgAAAAJAAAAEAAAAAAAAAAIAAAACwAAABAAAAAAAAAACAAAAAwAAAAQAAAAAAAAAAgAAAAOAAAAEAAAAAAAAAAIAAAADwAAABAAAAAAAAAACAAAABAAAAAQAAAAAAAAAAoAAAAAAAAAEAAAAAAAAAAKAAAAAQAAABAAAAAAAAAACgAAAAIAAAAQAAAAAAAAAAoAAAADAAAAEAAAAAAAAAAKAAAABgAAABAAAAAAAAAACgAAAAcAAAAQAAAAAAAAAAoAAAAIAAAAEAAAAAAAAAAKAAAACQAAABAAAAAAAAAACgAAAAsAAAAQAAAAAAAAAAoAAAAMAAAAEAAAAAAAAAAKAAAADgAAABAAAAAAAAAACgAAAA8AAAAQAAAAAAAAAAoAAAAQAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=1718379636,r,5524885637517621388,12175906853310735846,262144 --enable-features=kWebSQLAccess --disable-features=HardwareMediaKeyHandling,MediaSessionService,SpareRendererForSitePerProcess,WinRetrieveSuggestionsOnlyOnDemand --variations-seed-version --seatbelt-client=41
+dmitrygorbunow    9183   0.0  0.0 443701424   2224   ??  S    11:11PM   0:00.01 /Applications/Discord.app/Contents/Frameworks/Electron Framework.framework/Helpers/chrome_crashpad_handler --no-rate-limit --monitor-self-annotation=ptype=crashpad-handler --database=/Users/dmitrygorbunow/Library/Application Support/discord/Crashpad --url=https://f.a.k/e --annotation=_productName=discord --annotation=_version=0.0.298 --annotation=plat=OS X --annotation=prod=Electron --annotation=ver=28.2.7 --handshake-fd=26
+dmitrygorbunow    9181   0.0  0.5 1587996384  43472   ??  S    11:11PM   0:02.49 /Applications/Discord.app/Contents/MacOS/Discord
+dmitrygorbunow    9179   0.0  0.9 516756000  74688   ??  Ss   11:11PM   0:11.35 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+dmitrygorbunow    9177   0.0  0.2 499215728  20512   ??  Ss   11:10PM   0:00.15 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+dmitrygorbunow    9174   0.0  0.3 499894176  26720   ??  Ss   11:10PM   0:05.40 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+dmitrygorbunow    9159   0.0  0.1 410364704  11776   ??  S    11:09PM   0:00.25 /System/Library/PrivateFrameworks/EmailDaemon.framework/Versions/A/maild
+root              9132   0.0  0.1 410328256   6976   ??  Ss   11:07PM   0:00.09 /System/Library/PrivateFrameworks/DifferentialPrivacy.framework/XPCServices/DPSubmissionService.xpc/Contents/MacOS/DPSubmissionService
+root              9131   0.0  0.0 410294576   2400   ??  Ss   11:07PM   0:00.02 /usr/libexec/mmaintenanced
+root              9130   0.0  0.1 410330592   5264   ??  Ss   11:07PM   0:00.13 /usr/libexec/dprivacyd
+dmitrygorbunow    9128   0.0  0.1 410326432   6464   ??  S    11:07PM   0:00.11 /usr/libexec/ciphermld
+root              9126   0.0  0.0 410293760   2400   ??  Ss   11:07PM   0:00.05 /System/Library/PrivateFrameworks/CoreKDL.framework/Support/corekdld
+root              9097   0.0  0.0 410163808   2896   ??  Ss   10:14PM   0:00.02 /System/Library/PrivateFrameworks/PowerLog.framework/Versions/A/XPCServices/PerfPowerTelemetryClientRegistrationService.xpc/Contents/MacOS/PerfPowerTelemetryClientRegistrationService
+root              9095   0.0  0.1 410327120   5968   ??  Ss    9:58PM   0:00.14 /usr/libexec/countryd
+_hidd             9088   0.0  0.0 410191344   2720   ??  Ss    9:48PM   0:00.13 /usr/libexec/hidd
+root              9087   0.0  0.1 410336288   6688   ??  Ss    9:36PM   0:02.44 /usr/libexec/findmybeaconingd
+dmitrygorbunow    9072   0.0  0.0 411481120   3504   ??  Ss    9:36PM   0:00.19 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+dmitrygorbunow    9073   0.0  0.0 411612304   3488   ??  Ss    9:36PM   0:00.11 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+dmitrygorbunow    9069   0.0  0.1 411221184   4256   ??  Ss    9:36PM   0:00.14 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+dmitrygorbunow    9064   0.0  0.0 411477696   3328   ??  Ss    9:35PM   0:00.05 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+dmitrygorbunow    9063   0.0  0.0 411218976   3456   ??  Ss    9:35PM   0:00.11 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root              9062   0.0  0.0 410312816   3072   ??  Ss    9:35PM   0:00.04 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheManagerService.xpc/Contents/MacOS/AssetCacheManagerService
+dmitrygorbunow    9061   0.0  0.0 410165280   2624   ??  Ss    9:35PM   0:00.01 /System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent
+dmitrygorbunow    9060   0.0  0.0 410183776   3408   ??  S     9:35PM   0:00.02 /System/Library/Frameworks/ColorSync.framework/Support/colorsync.useragent
+dmitrygorbunow    9058   0.0  0.1 410958112   4336   ??  Ss    9:35PM   0:00.21 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+dmitrygorbunow    9057   0.0  0.0 410304576   2720   ??  Ss    9:35PM   0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+dmitrygorbunow    9054   0.0  0.1 410363792   8160   ??  S     9:35PM   0:00.07 /System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd
+dmitrygorbunow    9041   0.0  0.0 411321536   2576   ??  S     9:34PM   0:00.40 /Library/Frameworks/Python.framework/Versions/3.12/Resources/Python.app/Contents/MacOS/Python -m flask run
+dmitrygorbunow    9033   0.0  0.0 411190304   4080   ??  Ss    9:33PM   0:00.23 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+dmitrygorbunow    9029   0.0  0.0 410166352   3488   ??  S     9:32PM   0:00.02 /usr/libexec/spindump_agent
+root              9028   0.0  0.1 410305952   5200   ??  Ss    9:32PM   0:00.05 /usr/sbin/spindump
+dmitrygorbunow    9024   0.0  0.0 410294336   2720   ??  Ss    9:32PM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+dmitrygorbunow    9018   0.0  0.2 411048048  15168   ??  Ss    9:32PM   0:00.23 /System/Library/CoreServices/Dock.app/Contents/XPCServices/DockHelper.xpc/Contents/MacOS/DockHelper
+dmitrygorbunow    8998   0.0  0.2 411606624  13296   ??  S     9:32PM   0:00.16 /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/universalAccessAuthWarn.app/Contents/MacOS/universalAccessAuthWarn launchd -s
+dmitrygorbunow    8968   0.0  0.1 410366320   6256   ??  Ss    9:31PM   0:00.17 /System/Library/Frameworks/CoreGraphics.framework/Versions/A/XPCServices/CGPDFService.xpc/Contents/MacOS/CGPDFService
+dmitrygorbunow    8962   0.0  0.6 500047696  49216   ??  Ss    9:31PM   0:09.57 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+root              8952   0.0  0.0 410163344   3776   ??  S     9:30PM   0:00.07 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+root              8951   0.0  0.1 410384976  12160   ??  Ss    9:30PM   0:00.31 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSODaemon
+root              8950   0.0  0.1 410304688   4464   ??  Ss    9:30PM   0:00.08 /System/Library/Frameworks/GSS.framework/Helpers/GSSCred
+dmitrygorbunow    8949   0.0  0.2 411736560  13456   ??  S     9:30PM   0:00.22 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/Contents/MacOS/AppSSOAgent
+root              8948   0.0  0.1 410326480   6576   ??  Ss    9:30PM   0:00.16 /usr/libexec/wifivelocityd
+dmitrygorbunow    8947   0.0  0.0 410293840   3680   ??  S     9:30PM   0:00.10 /usr/libexec/WiFiVelocityAgent
+root              8945   0.0  0.1 410355136   4544   ??  Ss    9:30PM   0:00.08 /System/Library/Frameworks/SystemExtensions.framework/Versions/A/Helpers/sysextd
+root              8944   0.0  0.1 410364928   6304   ??  Ss    9:30PM   0:00.25 /usr/libexec/nesessionmanager
+dmitrygorbunow    8943   0.0  0.2 499759344  15328   ??  Ss    9:30PM   0:19.70 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+dmitrygorbunow    8941   0.0  0.1 499334448   4528   ??  Ss    9:30PM   0:00.08 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+dmitrygorbunow    8923   0.0  0.1 410331168   8352   ??  S     9:28PM   0:00.12 /usr/libexec/keyboardservicesd
+dmitrygorbunow    8908   0.0  0.1 410326336   6128   ??  S     9:27PM   0:00.16 /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/XPCServices/com.apple.iCloudHelper.xpc/Contents/MacOS/com.apple.iCloudHelper
+dmitrygorbunow    8903   0.0  0.0 411084368   3328   ??  Ss    9:27PM   0:00.04 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+dmitrygorbunow    8898   0.0  0.1 410364816   8832   ??  S     9:27PM   0:00.12 /System/Library/CoreServices/rcd.app/Contents/MacOS/rcd
+root              8892   0.0  0.1 410356512   4912   ??  Ss    9:26PM   0:00.35 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+dmitrygorbunow    8891   0.0  0.0 412008176   2912   ??  S     9:26PM   0:02.32 /Users/dmitrygorbunow/Library/Caches/JetBrains/PyCharm2023.3/full-line/models/34b8d5b1-5705-37cf-8fb1-d1974d67a8d6/full-line-inference.zip_extracted/full-line-inference.app/Contents/MacOS/full-line-inference -m /Users/dmitrygorbunow/Library/Caches/JetBrains/PyCharm2023.3/full-line/models/34b8d5b1-5705-37cf-8fb1-d1974d67a8d6/flcc.model -t onnx -bs 2 -ic 11 -cr 0.5 -mc 5 -mm 30
+_spotlight        8860   0.0  0.0 410293728   2384   ??  S     9:24PM   0:00.05 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+_spotlight        8859   0.0  0.1 410328912   5184   ??  S     9:24PM   0:00.17 /usr/libexec/trustd --agent
+dmitrygorbunow    8842   0.0  0.1 499548592   9440   ??  Ss    9:23PM   0:02.34 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+dmitrygorbunow    8832   0.0  0.1 414820336   8016   ??  S     9:21PM   0:00.19 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/reversetemplated
+dmitrygorbunow    8831   0.0  0.2 410843072  14576   ??  Ss    9:21PM   0:00.16 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+dmitrygorbunow    8830   0.0  0.3 411028000  21648   ??  Ss    9:21PM   0:00.81 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+dmitrygorbunow    8827   0.0  0.1 411321328   9680   ??  Ss    9:21PM   0:00.40 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper
+dmitrygorbunow    8826   0.0  0.1 410366560   7936   ??  S     9:21PM   0:00.40 /System/Cryptexes/App/usr/libexec/webinspectord
+dmitrygorbunow    8825   0.0  0.2 410843808  16512   ??  Ss    9:21PM   0:00.20 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/XPCServices/com.apple.Safari.SandboxBroker.xpc/Contents/MacOS/com.apple.Safari.SandboxBroker
+dmitrygorbunow    8823   0.0  0.4 415874928  36016   ??  Ss    9:21PM   0:10.40 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+dmitrygorbunow    8820   0.0  1.2 418501712  98944   ??  S     9:21PM   0:47.70 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/MacOS/Safari
+dmitrygorbunow    8678   0.0  0.0 411481120   3456   ??  Ss    9:20PM   0:00.17 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+dmitrygorbunow    8677   0.0  0.0 410613504   1840   ??  S     9:20PM   0:00.29 /Applications/PyCharm.app/Contents/bin/fsnotifier
+root              8666   0.0  0.1 410363712   6576   ??  Ss    9:20PM   0:00.31 /usr/libexec/amfid
+dmitrygorbunow    8652   0.0  0.0 410163328   2112   ??  Ss    9:17PM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+dmitrygorbunow    8642   0.0  0.1 410332224   9296   ??  S     9:17PM   0:00.13 /System/Cryptexes/App/usr/libexec/PasswordBreachAgent
+dmitrygorbunow    8634   0.0  0.1 410329920  10416   ??  S     9:17PM   0:00.36 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+dmitrygorbunow    8629   0.0  0.1 410371664  11520   ??  S     9:17PM   0:00.23 /System/Library/PrivateFrameworks/iCloudNotification.framework/iCloudNotificationAgent
+dmitrygorbunow    8623   0.0  0.1 410370160   8192   ??  S     9:16PM   0:00.16 /System/Library/PrivateFrameworks/WebPrivacy.framework/webprivacyd
+dmitrygorbunow    8618   0.0  0.1 410334832   4304   ??  S     9:16PM   0:00.06 /usr/libexec/naturallanguaged
+dmitrygorbunow    8617   0.0  0.1 410396112   9984   ??  S     9:16PM   0:00.76 /System/Library/Frameworks/Translation.framework/translationd
+dmitrygorbunow    8616   0.0  0.3 410531920  21296   ??  S     9:16PM   0:02.10 /System/Library/PrivateFrameworks/MediaAnalysis.framework/Versions/A/mediaanalysisd
+dmitrygorbunow    8611   0.0  0.0 410323008   2640   ??  S     9:16PM   0:00.04 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+dmitrygorbunow    8608   0.0  0.2 410825792  17632   ??  S     9:16PM   0:01.01 /System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd
+dmitrygorbunow    8543   0.0  0.1 410353696   7232   ??  S     9:08PM   0:00.08 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPArtworkAgent --launchd
+dmitrygorbunow    8541   0.0  0.1 410342000   8560   ??  S     9:08PM   0:00.17 /System/Library/PrivateFrameworks/BookKit.framework/Versions/A/XPCServices/com.apple.BKAgentService.xpc/Contents/MacOS/com.apple.BKAgentService
+dmitrygorbunow    8539   0.0  0.2 410428032  14528   ??  S     9:08PM   0:01.04 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPLibraryAgent --launchd
+dmitrygorbunow    8538   0.0  0.1 410382688   8656   ??  Ss    9:08PM   0:00.06 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/media-indexer.xpc/Contents/MacOS/media-indexer
+dmitrygorbunow    8528   0.0  0.0 410190880   2368   ??  S     9:08PM   0:00.01 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+_neuralengine     8526   0.0  0.1 410329104   4432   ??  Ss    9:08PM   0:00.07 /usr/libexec/aneuserd
+dmitrygorbunow    8519   0.0  0.1 410354400   7984   ??  S     9:08PM   0:00.27 /System/Library/PrivateFrameworks/CascadeSets.framework/Versions/A/XPCServices/SetStoreUpdateService.xpc/Contents/MacOS/SetStoreUpdateService
+dmitrygorbunow    8518   0.0  0.1 410327184   5408   ??  S     9:08PM   0:00.12 /usr/libexec/proactiveeventtrackerd
+dmitrygorbunow    8513   0.0  0.1 410463536   6368   ??  S     9:08PM   0:00.28 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+root              8509   0.0  0.1 410327648   5200   ??  Ss    9:08PM   0:00.04 /usr/libexec/sysdiagnosed
+dmitrygorbunow    8499   0.0  0.2 410373568  14448   ??  S     9:08PM   0:02.37 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+root              8498   0.0  0.0 410294016   2192   ??  Ss    9:08PM   0:00.08 /usr/libexec/logd_helper
+root              8476   0.0  0.1 410330960   6448   ??  Ss    9:07PM   0:00.14 /usr/libexec/symptomsd-diag
+root              8474   0.0  0.0 410163248   3408   ??  Ss    9:07PM   0:00.03 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
+dmitrygorbunow    8460   0.0  0.1 410317408   9680   ??  S     9:07PM   0:00.25 /usr/libexec/promotedcontentd
+dmitrygorbunow    8457   0.0  0.2 410377808  14672   ??  S     9:07PM   0:01.91 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+dmitrygorbunow    8426   0.0  0.0 411332112   3472   ??  Ss    9:07PM   0:00.27 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+dmitrygorbunow    8424   0.0  0.1 410352256   8944   ??  S     9:07PM   0:00.29 /usr/libexec/appleaccountd
+dmitrygorbunow    8419   0.0  0.1 410242464   7664   ??  S     9:07PM   0:00.08 /System/Library/CoreServices/pbs
+dmitrygorbunow    8406   0.0  0.1 410330224   8048   ??  S     9:07PM   0:00.14 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+dmitrygorbunow    8404   0.0  0.1 410338336   9632   ??  S     9:07PM   0:00.20 /System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple.sbd
+dmitrygorbunow    8403   0.0  0.1 410363104   5936   ??  S     9:07PM   0:00.20 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+dmitrygorbunow    8399   0.0  0.1 410325824   8608   ??  S     9:07PM   0:00.13 /System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert
+dmitrygorbunow    8400   0.0  0.1 410384800   8128   ??  S     9:07PM   0:03.25 /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service
+dmitrygorbunow    8394   0.0  0.1 410361664   9088   ??  S     9:07PM   0:00.32 /System/Library/PrivateFrameworks/TextToSpeechVoiceBankingSupport.framework/Support/voicebankingd
+root              8392   0.0  0.1 410304592   5712   ??  Ss    9:07PM   0:00.07 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
+dmitrygorbunow    8368   0.0  0.1 411220256   4368   ??  Ss    9:07PM   0:01.06 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+dmitrygorbunow    8367   0.0  0.1 410347184   5104   ??  Ss    9:07PM   0:00.03 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+root              8362   0.0  0.0 410293776   3904   ??  Ss    9:07PM   0:00.06 /usr/libexec/usbd
+root              8361   0.0  0.0 410325680   3424   ??  Ss    9:07PM   0:00.03 /System/Library/CryptoTokenKit/com.apple.ifdreader.slotd/Contents/MacOS/com.apple.ifdreader
+root              8359   0.0  0.1 410328848   8848   ??  Ss    9:07PM   0:00.58 /usr/libexec/PowerUIAgent
+root              8357   0.0  0.0 410330608   3232   ??  Ss    9:07PM   0:00.05 /usr/libexec/colorsyncd
+root              8355   0.0  0.0 410330656   3456   ??  Ss    9:07PM   0:00.05 /usr/libexec/colorsync.displayservices
+dmitrygorbunow    8353   0.0  0.1 410200784   4912   ??  S     9:07PM   0:00.58 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+dmitrygorbunow    8321   0.0  0.2 410654016  18304   ??  Ss    9:05PM   0:01.75 /System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget
+dmitrygorbunow    8320   0.0  0.1 410363568   5024   ??  Ss    9:05PM   0:00.03 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+dmitrygorbunow    8303   0.0  0.1 410363760   6416   ??  S     9:04PM   0:00.06 /System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd
+dmitrygorbunow    8277   0.0  0.1 410370528   9904   ??  S     9:03PM   0:00.62 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+dmitrygorbunow    8255   0.0  0.1 410294000   5648   ??  S     9:01PM   0:00.07 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
+dmitrygorbunow    8254   0.0  0.1 410364352   7344   ??  S     9:01PM   0:00.13 /System/Library/CoreServices/ScopedBookmarkAgent
+dmitrygorbunow    8203   0.0  0.1 410355408   6864   ??  S     8:58PM   0:00.20 /System/Cryptexes/App/usr/libexec/SafariLaunchAgent
+dmitrygorbunow    8118   0.0  0.1 410328240   9584   ??  S     8:54PM   0:00.37 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
+dmitrygorbunow    8119   0.0  0.1 410349792  10272   ??  S     8:54PM   0:01.18 /usr/libexec/remindd
+dmitrygorbunow    8116   0.0  0.1 410369600  11488   ??  S     8:54PM   0:00.65 /System/Library/PrivateFrameworks/VoiceShortcuts.framework/Versions/A/Support/siriactionsd
+root              8091   0.0  0.0 410293952   4192   ??  Ss    8:52PM   0:00.11 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper -launchd
+_applepay         8085   0.0  0.1 410369520   6048   ??  Ss    8:52PM   0:00.52 /usr/libexec/nfcd
+dmitrygorbunow    8084   0.0  0.1 410329744   6112   ??  S     8:52PM   0:00.08 /usr/libexec/findmydevice-user-agent
+root              8083   0.0  0.1 410332624   9504   ??  Ss    8:52PM   0:00.31 /usr/libexec/findmydeviced
+root              8082   0.0  0.0 410234400   3744   ??  Ss    8:52PM   0:00.04 /usr/libexec/sandboxd
+dmitrygorbunow    8081   0.0  0.2 410373664  12976   ??  S     8:52PM   0:11.01 /usr/libexec/siriknowledged
+root              8076   0.0  0.0 410200688   2640   ??  Ss    8:52PM   0:00.04 /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper
+dmitrygorbunow    8074   0.0  0.1 410369504  11952   ??  S     8:52PM   0:01.51 /System/Library/PrivateFrameworks/iTunesCloud.framework/Support/itunescloudd
+dmitrygorbunow    8071   0.0  0.1 410790160   4768   ??  S     8:52PM   0:00.10 /usr/libexec/keychainsharingmessagingd
+dmitrygorbunow    8068   0.0  0.1 410527696   8592   ??  S     8:52PM   0:00.44 /System/Cryptexes/App/usr/libexec/AuthenticationServicesAgent
+dmitrygorbunow    8025   0.0  0.1 410330112   8064   ??  Ss    8:49PM   0:00.87 /System/Library/PrivateFrameworks/IntelligencePlatformCompute.framework/Versions/A/XPCServices/IntelligencePlatformComputeService.xpc/Contents/MacOS/IntelligencePlatformComputeService
+dmitrygorbunow    8024   0.0  0.0 411612192   3824   ??  Ss    8:49PM   0:00.25 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+dmitrygorbunow    8023   0.0  0.0 411481120   3824   ??  Ss    8:49PM   0:00.44 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+_iconservices     8022   0.0  0.1 410364144   5616   ??  Ss    8:49PM   0:00.20 /System/Library/CoreServices/iconservicesd
+dmitrygorbunow    8021   0.0  0.3 410506048  24464   ??  S     8:49PM   0:02.35 /System/Library/CoreServices/iconservicesagent
+dmitrygorbunow    8020   0.0  0.2 411005632  12976   ??  S     8:49PM   0:00.34 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/MacOS/coreautha
+root              8018   0.0  0.1 410364128   6816   ??  Ss    8:49PM   0:00.19 /usr/libexec/biometrickitd --launchd
+root              8016   0.0  0.0 410198240   3248   ??  Ss    8:49PM   0:00.03 /System/Library/PrivateFrameworks/AppleCredentialManager.framework/AppleCredentialManagerDaemon
+root              8001   0.0  0.1 410329408   7456   ??  Ss    8:48PM   0:00.39 /usr/libexec/powerdatad
+root              7862   0.0  0.0 410330848   2752   ??  Ss    8:39PM   0:09.92 /usr/libexec/sysmond
+root              7861   0.0  0.0 410303776   2880   ??  Ss    8:39PM   0:00.13 /usr/libexec/securityd_system
+dmitrygorbunow    7860   0.0  0.1 410326000   5696   ??  S     8:39PM   0:00.03 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+dmitrygorbunow    7859   0.0  0.1 410363824   5584   ??  S     8:39PM   0:01.71 /usr/libexec/swcd
+root              7857   0.0  0.0 410294896   3280   ??  Ss    8:39PM   0:00.06 /usr/libexec/trustdFileHelper
+_cmiodalassistants  7856   0.0  0.1 410347328   4464   ??  S     8:39PM   0:00.14 /usr/libexec/trustd --agent
+root              7851   0.0  0.0 410916016   3648   ??  Ss    8:39PM   0:00.11 /usr/libexec/containermanagerd_system --runmode=privileged --user-container-mode=current --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
+dmitrygorbunow    7850   0.0  0.1 410354128   8480   ??  S     8:39PM   0:01.07 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+dmitrygorbunow    7849   0.0  0.1 414831424  11936   ??  S     8:39PM   0:07.37 /System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd
+dmitrygorbunow    7848   0.0  0.1 410369008   9216   ??  S     8:39PM   0:01.01 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd
+dmitrygorbunow    7847   0.0  0.2 410394032  14704   ??  S     8:39PM   0:01.88 /System/Library/PrivateFrameworks/GameCenterFoundation.framework/Versions/A/gamed
+dmitrygorbunow    7846   0.0  0.1 410371568  10400   ??  S     8:39PM   0:00.45 /usr/libexec/fmfd
+dmitrygorbunow    7844   0.0  0.1 410346320   6528   ??  S     8:39PM   0:00.24 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+root              7837   0.0  0.0 410616240   2448   ??  Ss    8:39PM   0:00.04 /usr/libexec/online-auth-agent
+root              7831   0.0  0.1 410382400   6800   ??  Ss    8:39PM   0:32.12 /usr/libexec/mobileassetd
+dmitrygorbunow    7830   0.0  0.1 410365568   9296   ??  S     8:39PM   0:00.40 /System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd
+dmitrygorbunow    7826   0.0  0.1 410344992   7312   ??  S     8:39PM   0:00.13 /System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app/Contents/MacOS/sociallayerd
+dmitrygorbunow    7825   0.0  0.1 410532992  12496   ??  S     8:39PM   0:01.69 /System/Cryptexes/App/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+dmitrygorbunow    7820   0.0  0.1 410356224   6736   ??  Ss    8:38PM   0:00.11 /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.iCloudDriveFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.iCloudDriveFileProvider
+dmitrygorbunow    7818   0.0  0.2 410375200  14272   ??  S     8:38PM   0:01.23 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+dmitrygorbunow    7810   0.0  0.1 410370160  11536   ??  S     8:38PM   0:00.85 /System/Library/CoreServices/audioaccessoryd
+dmitrygorbunow    7805   0.0  0.1 410364656   8928   ??  S     8:38PM   0:00.77 /usr/libexec/pkd
+dmitrygorbunow    7804   0.0  0.1 410363536   4768   ??  S     8:38PM   0:00.14 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+root              7802   0.0  0.1 410345552   6688   ??  Ss    8:38PM   0:02.60 /System/Library/CoreServices/osanalyticshelper server-init
+root              7801   0.0  0.1 410363280   4352   ??  Ss    8:38PM   0:00.15 /usr/libexec/mobileactivationd
+dmitrygorbunow    7800   0.0  0.1 410634544   7216   ??  S     8:38PM   0:00.78 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper
+dmitrygorbunow    7798   0.0  0.1 410312416   4416   ??  S     8:38PM   0:00.10 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+dmitrygorbunow    7797   0.0  0.1 410364016  10016   ??  S     8:38PM   0:01.52 /usr/libexec/transparencyd
+dmitrygorbunow    7780   0.0  0.2 410382384  14336   ??  S     8:38PM   0:01.54 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+dmitrygorbunow    7779   0.0  0.1 410376672   8896   ??  S     8:38PM   0:00.50 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+dmitrygorbunow    7775   0.0  0.1 410370800   9136   ??  S     8:38PM   0:00.65 /System/Library/PrivateFrameworks/DoNotDisturbServer.framework/Support/donotdisturbd
+dmitrygorbunow    7774   0.0  0.1 410375456  11344   ??  S     8:38PM   0:01.80 /usr/libexec/proactived
+dmitrygorbunow    7642   0.0  0.1 410369744   7024   ??  S     8:30PM   0:00.89 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd
+dmitrygorbunow    7551   0.0  0.1 410365456   7200   ??  S     8:25PM   0:00.22 /usr/libexec/neagent
+root              7550   0.0  0.1 410363264   4832   ??  Ss    8:25PM   0:00.31 /usr/libexec/nehelper
+dmitrygorbunow    7522   0.0  0.1 410331856   5440   ??  S     8:24PM   0:00.26 /usr/libexec/biomesyncd
+dmitrygorbunow    7455   0.0  0.1 410343536   5536   ??  S     8:20PM   0:00.26 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+dmitrygorbunow    7454   0.0  0.1 410369472   7504   ??  S     8:20PM   0:01.76 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
+dmitrygorbunow    7451   0.0  0.2 410383424  15552   ??  S     8:20PM   0:04.05 /usr/libexec/knowledge-agent
+dmitrygorbunow    7279   0.0  0.1 410369344   7984   ??  S     8:09PM   0:00.46 /usr/libexec/dmd
+dmitrygorbunow    7278   0.0  0.1 410382816   7952   ??  S     8:09PM   0:03.08 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent
+root              7260   0.0  0.1 410374128   8256   ??  S     8:09PM   0:00.92 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+dmitrygorbunow    7198   0.0  0.1 410365296   6544   ??  S     8:08PM   0:02.66 /usr/libexec/triald
+dmitrygorbunow    7085   0.0  0.1 410372560   8272   ??  S     8:01PM   0:01.48 /System/Library/PrivateFrameworks/CalendarDaemon.framework/Support/calaccessd
+dmitrygorbunow    6699   0.0  0.1 410380400   8096   ??  S     7:44PM   0:04.80 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+dmitrygorbunow    6586   0.0  0.1 410370176   5248   ??  S     7:39PM   0:07.81 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+_locationd        6577   0.0  0.0 410363008   3136   ??  S     7:39PM   0:00.17 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+_locationd        6575   0.0  0.0 410348368   3904   ??  S     7:39PM   0:00.22 /usr/libexec/trustd --agent
+_locationd        6573   0.0  0.0 410364032   3312   ??  S     7:39PM   0:02.86 /usr/libexec/secinitd
+dmitrygorbunow    6571   0.0  0.1 410372352   4384   ??  S     7:39PM   0:00.47 /usr/libexec/intelligentroutingd
+root              6564   0.0  0.0 410363696   3808   ??  Ss    7:39PM   0:00.23 /usr/sbin/WirelessRadioManagerd
+root              6455   0.0  0.1 410363984   6416   ??  Ss    7:35PM   0:00.20 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+dmitrygorbunow    6283   0.0  0.0 410330304   4160   ??  S     7:27PM   0:00.18 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeaccountd
+dmitrygorbunow    6278   0.0  0.2 410388176  13104   ??  S     7:27PM   0:10.02 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistant_service
+dmitrygorbunow    6160   0.0  0.1 410426800  11888   ??  S     7:22PM   0:01.18 /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+dmitrygorbunow    6101   0.0  0.1 410508144   8576   ??  S     7:21PM   0:00.57 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeuid.app/Contents/MacOS/storeuid
+dmitrygorbunow    6002   0.0  0.3 411784816  24224   ??  S     7:17PM   0:03.19 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+dmitrygorbunow    5870   0.0  0.1 411139632   8160   ??  S     7:10PM   0:00.74 /System/Library/PrivateFrameworks/SkyLight.framework//Versions/A/Resources/AquaAppearanceHelper.app/Contents/MacOS/AquaAppearanceHelper
+dmitrygorbunow    5847   0.0  0.1 411675296   8992   ??  S     7:09PM   0:02.92 /System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper
+dmitrygorbunow    5719   0.0  0.1 410365728   8336   ??  S     7:04PM   0:00.97 /usr/libexec/bluetoothuserd
+dmitrygorbunow    5698   0.0  0.1 410401904   7136   ??  S     7:03PM   0:00.61 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+dmitrygorbunow    5143   0.0  0.1 410364128   6128   ??  S     6:34PM   0:03.00 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+dmitrygorbunow    4672   0.0  0.2 417864016  14448   ??  S     6:18PM   0:10.83 /Applications/Outline.app/Contents/MacOS/Outline
+dmitrygorbunow    4078   0.0  0.1 410409920   7504   ??  Ss    5:50PM   0:00.72 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/PlugIns/QLPreviewGenerationExtension.appex/Contents/MacOS/QLPreviewGenerationExtension -AppleLanguages ("en-US", "ru-US")
+root              3593   0.0  0.1 410365520   6864   ??  Ss    5:35PM   0:07.77 /usr/libexec/audioanalyticsd
+_driverkit        2797   0.0  0.0 410595024     96   ??  Ss    4:56PM   0:00.01 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100001116 com.apple.IOUserBluetoothSerialDriver
+_driverkit        2796   0.0  0.0 410598096     96   ??  Ss    4:56PM   0:00.02 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100001114 com.apple.IOUserBluetoothSerialDriver
+dmitrygorbunow    2111   0.0  0.8 462925424  69616   ??  S     4:33PM   1:00.88 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper (Renderer).app/Contents/MacOS/Spotify Helper (Renderer) --type=renderer --enable-chrome-runtime --user-data-dir=/Users/dmitrygorbunow/Library/Caches/com.spotify.client --user-agent-product=Chrome/122.0.6261.69 Spotify/1.2.33.1042 --autoplay-policy=no-user-gesture-required --lang=en --num-raster-threads=4 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --renderer-client-id=7 --time-ticks-at-unix-epoch=-1712056769540833 --launch-time-ticks=813289723 --shared-files --field-trial-handle=1718379636,r,6675278335703761327,9802331894420047549,262144 --disable-features=BackForwardCache --variations-seed-version --seatbelt-client=183
+dmitrygorbunow    2108   0.0  0.0 411218784   3808   ??  S     4:33PM   0:00.51 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper --type=utility --utility-sub-type=storage.mojom.StorageService --lang=en --service-sandbox-type=service --use-mock-keychain --enable-chrome-runtime --user-data-dir=/Users/dmitrygorbunow/Library/Caches/com.spotify.client --user-agent-product=Chrome/122.0.6261.69 Spotify/1.2.33.1042 --shared-files --field-trial-handle=1718379636,r,6675278335703761327,9802331894420047549,262144 --disable-features=BackForwardCache --variations-seed-version --seatbelt-client=32
+dmitrygorbunow    2107   0.0  0.2 411531872  19856   ??  S     4:33PM   0:10.92 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=en --service-sandbox-type=network --use-mock-keychain --start-stack-profiler --enable-chrome-runtime --user-data-dir=/Users/dmitrygorbunow/Library/Caches/com.spotify.client --user-agent-product=Chrome/122.0.6261.69 Spotify/1.2.33.1042 --shared-files --field-trial-handle=1718379636,r,6675278335703761327,9802331894420047549,262144 --disable-features=BackForwardCache --variations-seed-version --seatbelt-client=25
+dmitrygorbunow    2102   0.0  0.0 410801456   1200   ??  S     4:33PM   0:00.12 /Applications/Spotify.app/Contents/Frameworks/Spotify Helper.app/Contents/MacOS/Spotify Helper --monitor-self-annotation=ptype=crashpad-handler --type=crashpad-handler --max-uploads=5 --max-db-size=20 --max-db-age=5 --database=/Users/dmitrygorbunow/Library/Caches/com.spotify.client --url=https://crashdump.spotify.com:443/ --annotation=platform=macosarm64 --annotation=product=spotify --annotation=version=1.2.33.1042 --handshake-fd=5
+root              2042   0.0  0.0 410363440   2464   ??  Ss    4:32PM   0:02.44 /usr/libexec/taskgated
+dmitrygorbunow    1914   0.0  0.1 410994864   7024   ??  Ss    4:32PM   0:02.96 /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/SimAudioProcessorServices.simdeviceio/Contents/XPCServices/SimAudioProcessorService.xpc/Contents/MacOS/SimAudioProcessorService
+dmitrygorbunow    1912   0.0  0.1 410994688   6032   ??  Ss    4:32PM   0:00.86 /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/Resources/SimStreamProcessorServices.simdeviceio/Contents/XPCServices/SimStreamProcessorService.xpc/Contents/MacOS/SimStreamProcessorService
+root              1584   0.0  0.0 411314512    688   ??  Ss    4:27PM   0:00.04 /Library/PrivilegedHelperTools/com.macpaw.CleanMyMac4.Agent
+dmitrygorbunow    1533   0.0  0.0 410363040   3168   ??  S     4:24PM   0:00.11 /System/Cryptexes/App/usr/libexec/SafariNotificationAgent
+dmitrygorbunow    1520   0.0  0.1 410384576   5952   ??  S     4:24PM   0:02.06 /System/Library/PrivateFrameworks/PassKitCore.framework/passd
+root              1517   0.0  0.0 410314832    896   ??  Ss    4:24PM   0:00.06 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+dmitrygorbunow    1515   0.0  0.1 411679248   5904   ??  S     4:24PM   0:07.74 /System/Cryptexes/App/usr/libexec/com.apple.Safari.History
+root              1501   0.0  0.0 410163280   1648   ??  Ss    4:22PM   0:00.03 /System/Library/CoreServices/Applications/Feedback Assistant.app/Contents/Library/LaunchServices/fbahelperd
+dmitrygorbunow    1460   0.0  0.1 410401952   8320   ??  Ss    4:22PM   0:02.43 /System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService
+dmitrygorbunow    1459   0.0  0.0 410295824   2912   ??  S     4:22PM   0:00.11 /usr/libexec/seserviced
+dmitrygorbunow    1431   0.0  0.0 410363968   2256   ??  S     4:21PM   0:00.38 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+dmitrygorbunow    1423   0.0  0.0 410699936   3072   ??  S     4:21PM   0:01.43 /Library/Apple/System/Library/PrivateFrameworks/RemotePairing.framework/Versions/A/XPCServices/remotepairingd.xpc/Contents/MacOS/remotepairingd
+dmitrygorbunow    1401   0.0  0.1 410992912   5360   ??  S     4:21PM   0:00.97 /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/XPCServices/SimulatorTrampoline.xpc/Contents/MacOS/SimulatorTrampoline
+dmitrygorbunow    1400   0.0  0.0 410659600    720   ??  S     4:21PM   0:00.14 /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/XPCServices/SimLaunchHost.arm64.xpc/Contents/MacOS/SimLaunchHost.arm64
+_diskimagesiod    1391   0.0  0.0 410390256   2064   ??  Ss    4:21PM   0:23.04 /usr/libexec/diskimagesiod
+_diskimagesiod    1381   0.0  0.0 410381040   2064   ??  Ss    4:21PM  29:49.29 /usr/libexec/diskimagesiod
+root              1379   0.0  0.0 410693152   2528   ??  Ss    4:21PM   0:00.32 /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Resources/bin/simdiskimaged
+_audiomxd         1378   0.0  0.1 410823280   5296   ??  Ss    4:21PM   0:00.90 /usr/libexec/audiomxd
+dmitrygorbunow    1377   0.0  0.1 411127488   6416   ??  S     4:21PM   0:03.04 /Library/Developer/PrivateFrameworks/CoreSimulator.framework/Versions/A/XPCServices/com.apple.CoreSimulator.CoreSimulatorService.xpc/Contents/MacOS/com.apple.CoreSimulator.CoreSimulatorService
+root              1348   0.0  0.0 410293760   1824   ??  Ss    4:21PM   0:00.01 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+_rmd              1343   0.0  0.0 410266096   1248   ??  S     4:21PM   0:00.40 /usr/sbin/distnoted agent
+root              1338   0.0  0.1 410334576   5728   ??  Ss    4:21PM   0:00.72 /System/Library/CoreServices/SubmitDiagInfo server-init
+dmitrygorbunow    1313   0.0  0.0 410294304   1968   ??  S     4:17PM   0:00.05 /usr/libexec/USBAgent
+dmitrygorbunow    1312   0.0  0.1 410448784   9440   ??  S     4:17PM   0:01.67 /System/Library/CoreServices/PowerChime.app/Contents/MacOS/PowerChime
+_assetcache       1306   0.0  0.0 410266096   1248   ??  S     4:17PM   0:00.40 /usr/sbin/distnoted agent
+_installcoordinationd  1299   0.0  0.0 410363264   2896   ??  Ss    4:17PM   0:00.09 /System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd
+dmitrygorbunow    1290   0.0  0.0 410364064   2960   ??  S     4:17PM   0:00.07 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd
+_applepay         1288   0.0  0.0 410266096   1248   ??  S     4:17PM   0:00.41 /usr/sbin/distnoted agent
+_gamecontrollerd  1287   0.0  0.0 410266096   1248   ??  S     4:17PM   0:00.41 /usr/sbin/distnoted agent
+dmitrygorbunow    1223   0.0  0.1 410328480   8112   ??  S     4:17PM   0:01.50 /System/Library/CoreServices/diagnostics_agent
+_fpsd             1270   0.0  0.0 410324464   1760   ??  Ss    4:17PM   0:00.94 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fairplayd
+dmitrygorbunow    1261   0.0  0.1 410396832   6832   ??  S     4:17PM   0:05.70 /usr/libexec/searchpartyuseragent
+dmitrygorbunow    1116   0.0  0.2 410388880  15856   ??  S     4:17PM   0:35.29 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
+dmitrygorbunow    1213   0.0  0.1 410367120  12128   ??  S     4:17PM   0:21.78 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent
+dmitrygorbunow    1245   0.0  0.2 410401808  17328   ??  S     4:17PM   0:07.07 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+dmitrygorbunow    1234   0.0  0.1 411366352   4992   ??  S     4:17PM   0:01.26 /usr/libexec/avconferenced
+dmitrygorbunow    1231   0.0  0.1 410375936   8256   ??  S     4:17PM   0:02.32 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+dmitrygorbunow    1232   0.0  0.0 410200096   2688   ??  S     4:17PM   0:00.19 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+dmitrygorbunow    1210   0.0  0.1 410391952   6016   ??  S     4:17PM   3:06.28 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+dmitrygorbunow    1218   0.0  0.0 410363424   2352   ??  S     4:17PM   0:00.10 /System/Library/Image Capture/Support/icdd
+dmitrygorbunow    1208   0.0  0.1 410369024   7728   ??  S     4:17PM   0:04.11 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+dmitrygorbunow    1224   0.0  0.1 411644480  11008   ??  S     4:17PM   0:03.00 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+dmitrygorbunow    1217   0.0  0.1 411361744   9232   ??  S     4:17PM   0:07.49 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd
+dmitrygorbunow    1221   0.0  0.1 411467872   6512   ??  S     4:17PM   0:00.79 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+dmitrygorbunow    1205   0.0  0.1 410368944   5744   ??  S     4:17PM   0:00.72 /System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent
+dmitrygorbunow    1201   0.0  0.2 410591248  13408   ??  S     4:17PM   0:07.08 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+dmitrygorbunow    1197   0.0  0.1 410374528   6464   ??  S     4:17PM   0:00.78 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+dmitrygorbunow    1192   0.0  0.2 410382976  14512   ??  S     4:17PM   0:15.52 /usr/libexec/sharingd
+dmitrygorbunow    1193   0.0  0.1 410412144   8352   ??  Ss    4:17PM   0:02.84 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension -AppleLanguages ("en-US", "ru-US")
+dmitrygorbunow    1191   0.0  0.1 411745312   7520   ??  S     4:17PM   0:01.54 /System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem system_app_start
+dmitrygorbunow    1189   0.0  0.1 410375408  12016   ??  S     4:17PM   0:04.07 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+dmitrygorbunow    1176   0.0  0.2 411186112  20224   ??  S     4:17PM   0:17.26 /System/Library/PrivateFrameworks/TextInputUIMacHelper.framework/Versions/A/XPCServices/CursorUIViewService.xpc/Contents/MacOS/CursorUIViewService
+dmitrygorbunow    1173   0.0  0.2 411002736  12608   ??  Ss    4:17PM   0:08.02 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+dmitrygorbunow    1169   0.0  0.1 410364848   7168   ??  S     4:17PM   0:02.67 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+dmitrygorbunow    1170   0.0  0.2 410374672  12816   ??  S     4:17PM   0:05.79 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+root              1172   0.0  0.0 410347856   2544   ??  Ss    4:17PM   0:00.34 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+dmitrygorbunow    1168   0.0  0.6 411262368  50432   ??  S     4:17PM   0:32.62 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+dmitrygorbunow    1141   0.0  0.1 410509808   8816   ??  S     4:17PM   0:04.99 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+dmitrygorbunow    1167   0.0  0.1 412060272   6128   ??  S     4:17PM   0:01.80 /Users/dmitrygorbunow/Library/Application Support/Figma/FigmaAgent.app/Contents/MacOS/figma_agent
+_oahd             1166   0.0  0.0 410158144    784   ??  Ss    4:17PM   0:00.02 /usr/libexec/rosetta/oahd
+dmitrygorbunow    1146   0.0  0.3 410843920  25408   ??  S     4:17PM   0:20.35 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+dmitrygorbunow    1152   0.0  0.0 410330768   2240   ??  S     4:17PM   0:00.09 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+dmitrygorbunow    1162   0.0  0.1 412060848   7648   ??  S     4:17PM   0:02.59 /System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod
+dmitrygorbunow    1150   0.0  0.1 410367856   6176   ??  S     4:17PM   0:01.15 /usr/libexec/ContinuityCaptureAgent server
+dmitrygorbunow    1160   0.0  0.1 410366976   5936   ??  S     4:17PM   0:00.18 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+dmitrygorbunow    1148   0.0  0.1 410373840   9680   ??  S     4:17PM   0:02.22 /System/Library/PrivateFrameworks/HearingCore.framework/heard
+dmitrygorbunow    1161   0.0  0.1 410364000   5184   ??  S     4:17PM   0:01.34 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+dmitrygorbunow    1155   0.0  0.1 411693264  11424   ??  S     4:17PM   0:07.61 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+dmitrygorbunow    1143   0.0  0.0 410386720   2208   ??  S     4:17PM   0:00.47 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker
+dmitrygorbunow    1139   0.0  0.1 410380064   6768   ??  S     4:17PM   0:03.16 /usr/libexec/networkserviceproxy
+dmitrygorbunow    1140   0.0  0.1 410364672   5744   ??  S     4:17PM   0:03.06 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+dmitrygorbunow    1138   0.0  0.1 410979168   6704   ??  Ss    4:17PM   0:18.89 /System/Library/ExtensionKit/Extensions/WallpaperVideoExtension.appex/Contents/MacOS/WallpaperVideoExtension
+dmitrygorbunow    1137   0.0  0.1 410399664  10448   ??  S     4:17PM   0:09.90 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+dmitrygorbunow    1110   0.0  0.1 410369680   6832   ??  S     4:17PM   0:03.90 /usr/libexec/rapportd
+dmitrygorbunow    1115   0.0  0.1 410366144   5808   ??  S     4:17PM   0:02.39 /usr/sbin/usernoted
+dmitrygorbunow    1124   0.0  0.0 410364304   4112   ??  S     4:17PM   0:03.80 /System/Library/CoreServices/lockoutagent
+dmitrygorbunow    1111   0.0  0.1 410377840   9488   ??  S     4:17PM   0:08.55 /usr/libexec/nsurlsessiond
+dmitrygorbunow    1131   0.0  0.2 410425776  16464   ??  S     4:17PM   0:17.88 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+dmitrygorbunow    1120   0.0  0.1 410373344   4656   ??  S     4:17PM   0:06.91 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
+dmitrygorbunow    1106   0.0  0.1 410509376   7472   ??  S     4:17PM   0:00.93 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+dmitrygorbunow    1119   0.0  0.2 410386432  16480   ??  S     4:17PM   0:31.65 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+_appleevents      1101   0.0  0.0 410266096   1248   ??  S     4:17PM   0:00.42 /usr/sbin/distnoted agent
+dmitrygorbunow    1130   0.0  0.1 411263104   5104   ??  Ss    4:17PM   0:31.17 /System/Library/ExtensionKit/Extensions/WallpaperDynamicExtension.appex/Contents/MacOS/WallpaperDynamicExtension
+dmitrygorbunow    1126   0.0  0.1 410371744   4416   ??  S     4:17PM   0:19.81 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd
+dmitrygorbunow    1104   0.0  0.0 411608368   4160   ??  S     4:17PM   0:00.50 /System/Library/PrivateFrameworks/UserNotificationsCore.framework/Support/usernotificationsd
+dmitrygorbunow    1122   0.0  0.1 410497360   6544   ??  S     4:17PM   0:02.94 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+dmitrygorbunow    1117   0.0  0.1 410370304   7056   ??  S     4:17PM   0:01.66 /System/Library/CoreServices/sharedfilelistd
+root              1113   0.0  0.0 410192112   1872   ??  Ss    4:17PM   0:00.12 automountd
+dmitrygorbunow    1105   0.0  0.1 410364832   5920   ??  S     4:17PM   0:01.89 /usr/libexec/secinitd
+dmitrygorbunow    1102   0.0  0.1 410873568   8032   ??  Ss    4:17PM   0:01.18 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+root              1099   0.0  0.1 410381856   9120   ??  Ss    4:17PM   0:04.54 /usr/sbin/filecoordinationd
+dmitrygorbunow    1097   0.0  0.1 411281856   9520   ??  S     4:17PM   0:02.93 /System/Library/CoreServices/WallpaperAgent.app/Contents/MacOS/WallpaperAgent
+dmitrygorbunow    1094   0.0  0.4 412012320  37504   ??  S     4:17PM   0:51.09 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+dmitrygorbunow    1093   0.0  0.1 411360640   7024   ??  S     4:17PM   0:01.03 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+dmitrygorbunow    1092   0.0  0.4 411695280  31824   ??  S     4:17PM   0:33.31 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+dmitrygorbunow    1088   0.0  0.1 410373424   6880   ??  S     4:17PM   0:01.17 /usr/libexec/pboard
+dmitrygorbunow    1085   0.0  0.1 410599040  11520   ??  S     4:17PM   0:36.77 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+dmitrygorbunow    1078   0.0  0.0 410368080   3552   ??  S     4:17PM   0:05.84 /usr/libexec/UserEventAgent (Aqua)
+dmitrygorbunow    1083   0.0  0.1 410992608   7504   ??  S     4:17PM   0:02.14 /usr/sbin/universalaccessd launchd -s
+dmitrygorbunow    1084   0.0  0.2 411790848  19248   ??  S     4:17PM   0:38.20 /System/Library/CoreServices/WindowManager.app/Contents/MacOS/WindowManager
+dmitrygorbunow    1082   0.0  0.1 411755536   9792   ??  S     4:17PM   0:01.02 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+root              1068   0.0  0.0 410278032    928   ??  Ss    4:16PM   0:00.05 /usr/libexec/securityd_service
+dmitrygorbunow    1067   0.0  0.1 410373840   8176   ??  S     4:16PM   0:29.56 /usr/libexec/trustd --agent
+dmitrygorbunow    1060   0.0  0.1 410579360   8768   ??  S     4:16PM   0:17.45 /usr/libexec/secd
+dmitrygorbunow    1056   0.0  0.1 410339232  10400   ??  SN    4:16PM   0:13.30 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+_spotlight        1055   0.0  0.0 410328912   3296   ??  SN    4:16PM   0:13.16 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+dmitrygorbunow    1054   0.0  0.1 410379248   9744   ??  S     4:16PM   0:07.26 /usr/libexec/lsd
+dmitrygorbunow    1053   0.0  0.1 410332928   4224   ??  S     4:16PM   0:13.87 /usr/sbin/cfprefsd agent
+dmitrygorbunow    1044   0.0  0.0 410268144   3936   ??  S     4:16PM   0:13.61 /usr/sbin/distnoted agent
+root              1034   0.0  0.0 410232144   2736   ??  Ss    4:16PM   0:00.22 /usr/libexec/eligibilityd
+_fpsd             1031   0.0  0.0 410186032   2496   ??  Ss    4:15PM   0:01.69 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+_netbios          1023   0.0  0.0 410294720   2032   ??  SNs   4:15PM   0:00.25 /usr/sbin/netbiosd
+root              1018   0.0  0.0 410198144   3328   ??  S     4:15PM   0:00.63 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+root              1017   0.0  0.1 410382288   9520   ??  Ss    4:15PM   0:10.89 /usr/libexec/gamepolicyd
+_accessoryupdater  1003   0.0  0.0 410266096   1248   ??  S     4:15PM   0:00.41 /usr/sbin/distnoted agent
+root              1002   0.0  0.1 410363232   5744   ??  Ss    4:15PM   0:03.90 /usr/libexec/rtcreportingd
+root              1001   0.0  0.0 410363600   3952   ??  Ss    4:15PM   0:00.22 /usr/libexec/wifianalyticsd
+_nsurlsessiond     999   0.0  0.0 410266096   1248   ??  S     4:15PM   0:00.42 /usr/sbin/distnoted agent
+_ctkd              991   0.0  0.0 410331328   2176   ??  Ss    4:15PM   0:00.04 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -st
+root               977   0.0  0.2 410397376  13328   ??  Ss    4:15PM   0:16.23 /usr/libexec/searchpartyd
+root               785   0.0  0.0 410330736   2000   ??  Ss    4:15PM   0:00.07 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+_softwareupdate    399   0.0  0.0 410266096   1248   ??  S     4:15PM   0:00.40 /usr/sbin/distnoted agent
+_driverkit         410   0.0  0.0 410598224    960   ??  Ss    4:15PM   0:01.21 /System/Library/DriverExtensions/com.apple.AppleUserHIDDrivers.dext/com.apple.AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDDrivers 0x100000a9b com.apple.AppleUserHIDDrivers
+_driverkit         402   0.0  0.0 410593920     64   ??  Ss    4:15PM   0:00.02 /System/Library/DriverExtensions/com.apple.DriverKit-IOUserDockChannelSerial.dext/com.apple.DriverKit-IOUserDockChannelSerial com.apple.IOUserDockChannelSerial 0x100000a96 com.apple.DriverKit-IOUserDockChannelSerial
+_spotlight         354   0.0  0.0 410266096   1248   ??  S     4:15PM   0:00.41 /usr/sbin/distnoted agent
+root               328   0.0  0.8 412660064  70016   ??  Ss    4:15PM   1:11.61 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+_locationd         326   0.0  0.0 410266096   1248   ??  S     4:15PM   0:00.42 /usr/sbin/distnoted agent
+root               322   0.0  0.1 410304416   4288   ??  Ss    4:15PM   0:03.08 /usr/libexec/wifip2pd
+_cmiodalassistants   311   0.0  0.0 410365040   2672   ??  Ss    4:15PM   0:00.23 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/UVCAssistant.systemextension/Contents/MacOS/UVCAssistant
+root               314   0.0  0.0 410337728   2352   ??  Ss    4:15PM   0:01.83 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd
+root               316   0.0  0.1 410376896   5232   ??  Ss    4:15PM   0:05.92 /usr/libexec/storagekitd
+_cmiodalassistants   310   0.0  0.0 411216592   3056   ??  Ss    4:15PM   0:00.12 /usr/libexec/cameracaptured
+_cmiodalassistants   309   0.0  0.0 410368240   3536   ??  Ss    4:15PM   0:01.58 /usr/sbin/appleh13camerad
+root               306   0.0  0.1 410364480   5024   ??  Ss    4:15PM   0:23.27 /usr/libexec/aned
+_appleevents       303   0.0  0.1 410365008   4288   ??  Ss    4:15PM   0:00.84 /System/Library/CoreServices/appleeventsd --server
+root               301   0.0  0.0 410791456   3344   ??  Ss    4:15PM   0:28.28 /usr/libexec/audioclocksyncd
+root               290   0.0  0.0 410331712   2896   ??  Ss    4:15PM   0:00.75 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+root               270   0.0  0.2 410402272  13504   ??  Ss    4:15PM   1:45.09 /usr/libexec/syspolicyd
+_cmiodalassistants   255   0.0  0.0 410266096   1248   ??  S     4:15PM   0:00.41 /usr/sbin/distnoted agent
+root               254   0.0  0.0 410277520   1056   ??  Ss    4:15PM   0:00.19 /usr/sbin/cron
+_cmiodalassistants   247   0.0  0.0 410365968   2160   ??  Ss    4:15PM   0:00.18 /System/Library/Frameworks/CoreMediaIO.framework/Resources/VDC.plugin/Contents/Resources/VDCAssistant
+root               245   0.0  0.0 410363760   2272   ??  Ss    4:15PM   0:00.95 /usr/sbin/mDNSResponderHelper
+_windowserver      237   0.0  0.0 410266096   1248   ??  S     4:15PM   0:00.44 /usr/sbin/distnoted agent
+_coreaudiod        240   0.0  0.0 410266096   1248   ??  S     4:15PM   0:00.46 /usr/sbin/distnoted agent
+root               238   0.0  0.0 410365440   2576   ??  Ss    4:15PM   0:01.03 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+_mdnsresponder     229   0.0  0.1 410371264   7328   ??  Ss    4:15PM   0:11.58 /usr/sbin/mDNSResponder
+root               233   0.0  0.0 410362464   2416   ??  Ss    4:15PM   0:00.77 /System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd
+_networkd          225   0.0  0.1 410368288   7824   ??  Ss    4:15PM   0:12.69 /usr/libexec/symptomsd
+_analyticsd        205   0.0  0.1 410371520   8656   ??  Ss    4:15PM   0:05.19 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+_biome             101   0.0  0.1 410363744   5008   ??  Ss    4:15PM   0:02.90 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed
+root               209   0.0  0.0 410266096   1488   ??  S     4:15PM   0:00.47 /usr/sbin/distnoted agent
+_nsurlsessiond     201   0.0  0.1 410406624   7456   ??  Ss    4:15PM   0:01.92 /usr/libexec/nsurlsessiond --privileged
+_trustd            199   0.0  0.1 410448544   9456   ??  Ss    4:15PM   0:28.47 /usr/libexec/trustd
+_usbmuxd           129   0.0  0.0 410371168   2880   ??  Ss    4:15PM   0:05.83 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+_distnote          137   0.0  0.0 410266096   2464   ??  Ss    4:15PM   0:05.47 /usr/sbin/distnoted daemon
+root               200   0.0  0.0 410308208   2352   ??  Ss    4:15PM   1:53.47 /usr/libexec/apfsd
+_timed             128   0.0  0.0 410363760   2640   ??  Ss    4:15PM   0:00.61 /usr/libexec/timed
+root               175   0.0  0.1 410370096  12544   ??  Ss    4:15PM   1:00.41 /usr/libexec/airportd
+root               169   0.0  0.0 410347904   3344   ??  Ss    4:15PM   0:01.33 /System/Library/CoreServices/coreservicesd
+root               161   0.0  0.2 410383056  13056   ??  Ss    4:15PM   0:44.40 /usr/libexec/runningboardd
+root               157   0.0  0.1 410380768   7760   ??  Ss    4:15PM   0:12.74 /usr/libexec/lsd runAsRoot
+dmitrygorbunow     156   0.0  0.3 411946240  23888   ??  Ss    4:15PM   0:20.37 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+root               154   0.0  0.1 410382928  11520   ??  Ss    4:15PM   0:19.26 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd system
+root               153   0.0  0.0 410332448   4176   ??  Ss    4:15PM   0:12.26 /usr/sbin/cfprefsd daemon
+root               100   0.0  0.0 410294368   1936   ??  Ss    4:15PM   0:00.02 /usr/libexec/IOMFB_bics_daemon
+root                91   0.0  0.1 410375616  10320   ??  Ss    4:15PM   0:13.87 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root               121   0.0  0.0 410324128   1312   ??  Ss    4:15PM   0:01.28 /usr/sbin/syslogd
+root               151   0.0  0.0 410365088   3424   ??  Ss    4:15PM   0:00.54 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/com.apple.cmio.registerassistantservice
+root               139   0.0  0.2 410371888  15248   ??  Ss    4:15PM   0:52.66 /usr/libexec/PerfPowerServices
+root               144   0.0  0.1 410332768   4272   ??  Ss    4:15PM   0:02.29 /usr/libexec/usermanagerd -t 15
+root                94   0.0  0.0 410356432   3424   ??  Ss    4:15PM   0:03.38 /usr/sbin/systemstats --daemon
+root               120   0.0  0.1 410379952   9632   ??  Ss    4:15PM   1:51.16 /usr/libexec/coreduetd
+root               142   0.0  0.0 410365120   4112   ??  Ss    4:15PM   0:00.92 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root               114   0.0  0.3 410801088  23728   ??  Ss    4:15PM   1:10.93 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+root               110   0.0  0.0 410157168   2064   ??  Ss    4:15PM   0:00.92 /usr/libexec/watchdogd
+root               126   0.0  0.1 410449872   5744   ??  Ss    4:15PM   0:07.51 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root               143   0.0  0.0 410155056    912   ??  Ss    4:15PM   0:00.02 /usr/sbin/KernelEventAgent
+root               150   0.0  0.1 410372592   5184   ??  Ss    4:15PM   0:02.52 /usr/libexec/AirPlayXPCHelper
+root               134   0.0  0.0 410294304   1776   ??  Ss    4:15PM   0:00.02 autofsd
+root               130   0.0  0.1 410365392   4384   ??  Ss    4:15PM   0:03.38 /usr/sbin/securityd -i
+root               124   0.0  0.0 410328784   3072   ??  Ss    4:15PM   0:09.92 /usr/libexec/thermalmonitord
+root               141   0.0  0.0 410199616   2528   ??  Ss    4:15PM   0:00.14 /System/Library/CoreServices/logind
+root               125   0.0  0.1 410387344  12288   ??  Ss    4:15PM   0:32.38 /usr/libexec/opendirectoryd
+root               117   0.0  0.0 410363136   3600   ??  Ss    4:15PM   0:02.36 /usr/libexec/diskarbitrationd
+root               147   0.0  0.0 410330896   2720   ??  Ss    4:15PM   0:11.31 /usr/sbin/notifyd
+root               116   0.0  0.0 410362208   2832   ??  Ss    4:15PM   0:01.12 /usr/libexec/kernelmanagerd
+root               105   0.0  0.0 410363344   1936   ??  Ss    4:15PM   0:00.09 /usr/libexec/remoted
+root                85   0.0  0.2 410460128  16768   ??  Ss    4:15PM   1:08.22 /usr/libexec/logd
+root                99   0.0  0.1 410365776   7728   ??  Ss    4:15PM   0:14.37 /System/Library/CoreServices/powerd.bundle/powerd
+root                97   0.0  0.1 410368352   5136   ??  Ss    4:15PM   0:05.38 /usr/libexec/configd
+root                89   0.0  0.0 410155072   1616   ??  Ss    4:15PM   0:00.76 /System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld
+root                90   0.0  0.1 410477152   4960   ??  Ss    4:15PM   1:48.19 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root                87   0.0  0.1 410365792   4576   ??  Ss    4:15PM   0:04.00 /usr/libexec/UserEventAgent (System)
+root              9310   0.0  0.0 410724016   1904 s000  R+   11:16PM   0:00.00 ps aux
+root                 1   0.0  0.2 411185520  14960   ??  Ss    4:15PM   0:51.82 /sbin/launchd
+dmitrygorbunow    9300   0.0  0.2 411351168  19072   ??  Ss   11:16PM   0:00.05 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+dmitrygorbunow    9301   0.0  0.2 411206320  12864   ??  Ss   11:16PM   0:00.02 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+dmitrygorbunow    9297   0.0  0.0 410762240   3744 s000  S    11:16PM   0:00.02 -zsh
+root              9296   0.0  0.1 410306160   9008   ??  Ss   11:16PM   0:00.05 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root              9295   0.0  0.2 410379712  13504   ??  Ss   11:16PM   0:00.05 /usr/sbin/systemsoundserverd
+root              9294   0.0  0.1 410753408   8432 s000  Ss   11:16PM   0:00.02 login -pf dmitrygorbunow
+dmitrygorbunow    9292   0.0  0.3 410403616  22624   ??  Ss   11:16PM   0:00.07 /System/Library/Frameworks/QuickLookThumbnailing.framework/Versions/A/PlugIns/ThumbnailExtension_macOS.appex/Contents/MacOS/ThumbnailExtension_macOS -AppleLanguages ("en-US", "ru-US")
+dmitrygorbunow    9291   0.0  0.2 410344144  18512   ??  S    11:15PM   0:00.12 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+dmitrygorbunow    9290   0.0  0.1 410343584   9712   ??  S    11:15PM   0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+dmitrygorbunow    9289   0.0  0.1 410343584  11664   ??  S    11:15PM   0:00.10 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+dmitrygorbunow    9288   0.0  0.1 410326544   4512   ??  S    11:15PM   0:00.03 trustevaluationagent
+_trustevaluationagent  9287   0.0  0.0 410326528   4160   ??  Ss   11:15PM   0:00.03 trustevaluationagent
+dmitrygorbunow    9286   0.0  0.1 410343584  11680   ??  S    11:15PM   0:00.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+dmitrygorbunow    9285   0.0  0.1 410343584  11680   ??  S    11:15PM   0:00.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+dmitrygorbunow    9284   0.0  0.1 410344144  11712   ??  S    11:15PM   0:00.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+dmitrygorbunow    9283   0.0  0.1 410343584  11680   ??  S    11:15PM   0:00.08 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+dmitrygorbunow    9282   0.0  0.1 410343584  11680   ??  S    11:15PM   0:00.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+dmitrygorbunow    9281   0.0  0.1 410343584  11680   ??  S    11:15PM   0:00.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+dmitrygorbunow    9280   0.0  0.1 410343584  11680   ??  S    11:15PM   0:00.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+dmitrygorbunow    9279   0.0  0.3 411086224  23120   ??  S    11:15PM   0:00.08 /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/AXVisualSupportAgent.app/Contents/MacOS/AXVisualSupportAgent launchd -s
+dmitrygorbunow    9275   0.0  0.1 410343584  11792   ??  S    11:14PM   0:00.11 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+dmitrygorbunow    9268   0.0  0.1 410918944   4272   ??  Ss   11:14PM   0:00.03 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+dmitrygorbunow    9267   0.0  0.0 410163280   2656   ??  Ss   11:14PM   0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.ComponentTagHelper.xpc/Contents/MacOS/com.apple.audio.ComponentTagHelper
+dmitrygorbunow    9266   0.0  0.1 410332544  10448   ??  S    11:13PM   0:01.18 /System/Library/PrivateFrameworks/AXAssetLoader.framework/Support/axassetsd
+root              9265   0.0  0.1 411049104  11440   ??  Ss   11:13PM   0:00.14 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XProtectBridgeService.xpc/Contents/MacOS/XProtectBridgeService
+dmitrygorbunow    9264   0.0  0.3 411296112  21600   ??  Ss   11:13PM   0:00.17 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
