@@ -1,5 +1,6 @@
 from flask import Flask
-
+import requests
+from concurrent.futures import ThreadPoolExecutor
 path = "../files/output_file.txt"
 
 
@@ -29,6 +30,24 @@ def convert_kb_to_mb_gb(kb):
     else:
         return f"{kb} KB"
 
+def fetch_cat_fact(url):
+    response = requests.get(url)
+    print(response)
+    if response.status_code == 200:
+        data = response.json()
+        cat_fact = data["fact"]
+        print(cat_fact)
+    else:
+        print("Failed to fetch cat fact")
+
+def get_cat_facts():
+    url = "https://catfact.ninja/fact"
+    with ThreadPoolExecutor(max_workers=20) as executor:
+        futures = [executor.submit(fetch_cat_fact, url) for _ in range(20)]
+        for future in futures:
+            future.result()
+
 
 if __name__ == '__main__':
-    print(get_summary_rss(path))
+    get_cat_facts()
+    # print(get_summary_rss(path))
